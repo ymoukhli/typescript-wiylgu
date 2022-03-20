@@ -1,0 +1,16 @@
+h1,
+h2 {
+  font-family: Lato;
+}
+
+ul {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  width: min-content;
+  gap: 1em;
+}
+
+img {
+  width: 100px;
+  height: 100px;
+}
